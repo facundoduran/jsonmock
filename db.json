@@ -1,0 +1,245 @@
+[
+    {
+       "title":"Personal details",
+       "fields":[
+          {
+             "name":"First Name",
+             "value":"Menno",
+             "type":"String",
+             "size":2
+          },
+          {
+             "name":"Full Name",
+             "value":"Menno Bos",
+             "type":"String",
+             "size":2
+          },
+          {
+             "name":"Personal Number",
+             "value":"1525",
+             "type":"number",
+             "size":1
+          },
+          {
+             "name":"Nickname",
+             "value":"Menno",
+             "type":"String",
+             "size":1
+          },
+          {
+             "name":"Initials",
+             "value":"M",
+             "type":"String",
+             "size":1
+          },
+          {
+             "name":"Birth name",
+             "value":"Bos",
+             "type":"String",
+             "size":2
+          },
+          {
+             "name":"Composed name",
+             "value":"Bos",
+             "type":"String",
+             "size":2
+          },
+          {
+             "name":"Birth date",
+             "value":"15/02/1955",
+             "type":"Date",
+             "size":1
+          },
+          {
+             "name":"Nationality",
+             "value":"Nederlandse",
+             "type":"String",
+             "size":2
+          },
+          {
+             "name":"Marital status",
+             "value":"GEH",
+             "type":"String",
+             "size":1
+          },
+          {
+             "name":"Gender",
+             "value":"M",
+             "type":"String",
+             "size":1
+          },
+          {
+             "name":"Social security number",
+             "value":"131032033",
+             "type":"String",
+             "size":2
+          },
+          {
+             "name":"Company email",
+             "value":"",
+             "type":"String",
+             "size":1
+          },
+          {
+             "name":"Personal email",
+             "value":"",
+             "type":"String",
+             "size":1
+          },
+          {
+             "name":"Company phone",
+             "value":"",
+             "type":"String",
+             "size":1
+          },
+          {
+             "name":"Personal phone",
+             "value":"",
+             "type":"String",
+             "size":1
+          }
+       ]
+    },
+    {
+       "title":"Contract information",
+       "sections":[
+          {
+             "title":"Contract 1525 2",
+             "fields":[
+                {
+                   "name":"Contract number",
+                   "value":"1525 2",
+                   "type":"String",
+                   "size":1
+                },
+                {
+                   "name":"Job title",
+                   "value":"Lector 2",
+                   "type":"String",
+                   "size":2
+                },
+                {
+                   "name":"Hours per week",
+                   "value":"36",
+                   "type":"number",
+                   "size":1
+                },
+                {
+                   "name":"Organizational unit",
+                   "value":"BOG",
+                   "type":"String",
+                   "size":2
+                },
+                {
+                   "name":"Start date",
+                   "value":"01/01/2016",
+                   "type":"Date",
+                   "size":1
+                },
+                {
+                   "name":"Notice period in months",
+                   "value":"",
+                   "type":"String",
+                   "size":1
+                },
+                {
+                   "name":"Payroll scale",
+                   "value":"2",
+                   "type":"String",
+                   "size":2
+                },
+                {
+                   "name":"Payroll seniority",
+                   "value":"0",
+                   "type":"String",
+                   "size":1
+                },
+                {
+                   "name":"Nominal salary",
+                   "value":"",
+                   "type":"String",
+                   "size":1
+                },
+                {
+                   "name":"Hourly wage",
+                   "value":"",
+                   "type":"String",
+                   "size":1
+                },
+                {
+                   "name":"Calculated gross salary",
+                   "value":"1638",
+                   "type":"Number",
+                   "size":1
+                },
+                {
+                   "name":"Calculated gross hourly wage",
+                   "value":"10.5",
+                   "type":"Number",
+                   "size":1
+                }
+             ],
+             "sections":[
+                {
+                   "title":"Bank account NL67INGB00007586542",
+                   "fields":[
+                      {
+                         "name":"Ascription",
+                         "value":"",
+                         "type":"String",
+                         "size":1
+                      },
+                      {
+                         "name":"Reason payment",
+                         "value":"",
+                         "type":"String",
+                         "size":1
+                      },
+                      {
+                         "name":"Amount",
+                         "value":"75",
+                         "type":"Number",
+                         "size":1
+                      },
+                      {
+                         "name":"IBAN",
+                         "value":"NL67INGB00007586542",
+                         "type":"String",
+                         "size":1
+                      }
+                   ]
+                },
+                {
+                   "title":"Bank account NL08INGB0721761356",
+                   "fields":[
+                      {
+                         "name":"Ascription",
+                         "value":"",
+                         "type":"String",
+                         "size":1
+                      },
+                      {
+                         "name":"Reason payment",
+                         "value":"",
+                         "type":"String",
+                         "size":1
+                      },
+                      {
+                         "name":"Amount",
+                         "value":"50",
+                         "type":"Number",
+                         "size":1
+                      },
+                      {
+                         "name":"IBAN",
+                         "value":"NL08INGB0721761356",
+                         "type":"String",
+                         "size":1
+                      }
+                   ]
+                }
+             ]
+          }
+       ]
+    }
+ ]
